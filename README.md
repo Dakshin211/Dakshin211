@@ -32,9 +32,8 @@
 
 ## 🎮 Fun Zone  
 
-<p align="center">
-  <img src="https://github.com/Dakshin211/pixel-runner/blob/output/pixel-runner.svg" alt="Pixel Runner Animation" />
-</p>
+<img src="https://raw.githubusercontent.com/Dakshin211/pixel-runner/output/pixel-runner.svg" alt="Pixel Runner Animation" />
+
 
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center">🎭 Hey, I'm Dakshineshwar Vel A 👋</h1>
+<h1 align="center">👋 Hey, I'm Dakshineshwar Vel A</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Exploring+AI+%26+Web+Development;3D+Animation+%26+VFX+Creator;Exposing+Myself+to+New+Experiences;Learning+by+Doing;Always+Curious+%26+Building" />
@@ -12,37 +12,43 @@
 💡 Interests: **AI | Machine Learning | Web Dev | 3D Animation | VFX**  
 🎨 Love transforming ideas into **visuals & interactive projects**  
 
-
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,blender,c,tensorflow,html,css,js,git" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,blender,c,tensorflow,c,html,css,js,git" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dakshin211&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshin211&layout=compact&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dakshin211&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🎮 Fun Zone  
+## ✨ Highlights
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Dakshin211/pixel-runner/output/pixel-runner.svg" alt="Pixel Runner Animation" />
-
-
+- 🌱 Always curious and experimenting with **new technologies**  
+- 🧩 Love solving problems through **code & creativity**  
+- 🎨 Bridging **tech with art** → AI + Animation + VFX  
+- 🔭 Currently learning **Deep Learning & Generative AI**  
 
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
+  <a href="mailto:dakshin211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white&style=flat-square" /></a>
+  <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white&style=flat-square" /></a> -->
 </p>
 
 ---
+
 ⭐️ From [Dakshin211](https://github.com/Dakshin211)

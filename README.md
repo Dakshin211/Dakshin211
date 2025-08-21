@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Dakshineshwar A</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Exploring+AI+%26+Web+Development;3D+Animation+%26+VFX+Creator;Exposing+Myself+to+New+Experiences;Learning+by+Doing;Always+Curious+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Student;Exploring+AI+%26+Web+Development;3D+Animation+%26+VFX+Designer;Exposing+Myself+to+New+Experiences;Learning+by+Doing;Always+Curious+%26+Building" />
 </p>
 
 ---

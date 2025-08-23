@@ -47,7 +47,7 @@
 <p align="center">
   <a href="mailto:autodesk.dakshin211@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.linkedin.com/in/dakshin-a-616b112a1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://dakshin.lovable.app/"><img src="https://skillicons.dev/icons?i=portfolio" /></a> 
+  <a href="https://dakshintech.netlify.app"><img src="https://skillicons.dev/icons?i=portfolio" /></a> 
 </p>
 
 ---

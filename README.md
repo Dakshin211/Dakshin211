@@ -44,11 +44,20 @@
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
-  <a href="mailto:autodesk.dakshin211@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/dakshin-a-616b112a1/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://dakshintech.netlify.app"><img src="https://skillicons.dev/icons?i=portfolio" /></a> 
+  <a href="https://dakshintech.netlify.app">
+    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="48"/><br>Portfolio
+  </a>
+  <a href="mailto:autodesk.dakshin211@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48"/><br>Gmail
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/dakshin-a-616b112a1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/><br>LinkedIn
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;  
 </p>
+
 
 ---
 

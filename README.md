@@ -24,10 +24,15 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshin211&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
-  <br/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=Dakshin211&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+## 🔥 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshin211&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -50,7 +55,6 @@
   <a href="mailto:dakshin211@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/dakshin-a-616b112a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" /></a>  
 </p>
-
 
 ---
 

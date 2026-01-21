@@ -32,8 +32,9 @@
 
 ## 🔥 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dakshin211&theme=tokyo-night&hide_border=true" />
+  <img src="https://ghchart.rshah.org/1f2933/Dakshin211" />
 </p>
+
 
 ---
 

@@ -32,7 +32,7 @@
 
 ## 🔥 Contribution Activity
 <p align="center">
-  <img src="https://ghchart.rshah.org/Dakshin211" alt="Dakshin211's GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/0e1c29/Dakshin211" />
 </p>
 
 

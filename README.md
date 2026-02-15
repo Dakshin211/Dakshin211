@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshin211&layout=compact&theme=tokyonight&hide_border=true" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshin211&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshin211&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
